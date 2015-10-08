@@ -6,6 +6,7 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.2",
     "gulp-ruby-sass": "^2.0.3"
   }
 }
